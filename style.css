@@ -448,7 +448,7 @@
     background-color: #F8BD19;
 }
 
-.footer-panel1 {
+.footer-panel1 a{
     height: 50px;
     color: white;
     background-color: #37475A;
@@ -456,9 +456,10 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    text-decoration: none;
 }
 
-.footer-panel1:hover {
+.footer-panel1 a:hover {
     background-color: #465467;
 }
 
